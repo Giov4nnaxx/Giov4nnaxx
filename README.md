@@ -1,29 +1,28 @@
 # 👋 Olá, eu sou a Giovanna Santana
 
-🎓 Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
-🌍 Moro em Osasco, SP  
-💻 Desenvolvedora front-end e back-end, com experiência em projetos online e CRUDs  
-
----
-
-## 🚀 Sobre mim
-Sou organizada, proativa e gosto de aprender novas tecnologias. Tenho experiência em programação, desenvolvimento de plataformas e organização de dados. Busco sempre aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas | Osasco, SP  
+💻 Desenvolvedora Front-end e Back-end | Proativa e organizada  
 
 ---
 
 ## 🛠 Habilidades
 - Desenvolvimento de Software (Java, JavaScript, C#)  
-- Banco de dados e CRUDs  
-- Front-end (HTML, CSS, JavaScript)  
+- CRUDs e Banco de Dados  
+- Front-end (HTML, CSS, JS)  
 - Back-end (Node.js, APIs REST)  
-- Excel, Google Planilhas e organização de dados  
-- Trabalho em equipe, comunicação e proatividade  
+- Excel / Google Planilhas  
+- Trabalho em equipe e comunicação  
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos
+- 📚 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto) – Sistema de biblioteca online para alunos e admins  
+- 👩‍🎓 [CRUD de Alunos e Turmas](https://github.com/Giov4nnaxx/Alunos) – Cadastro e gerenciamento de alunos e turmas em Java
+- 
+- 🛒 [Loja Backend](https://github.com/Giov4nnaxx/LojaBackend) – Gerenciamento de produtos, clientes e pedidos  
 
-### [Projeto Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
-Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript, permitindo que usuários consultem, reservem livros e façam login como aluno ou administrador.
+---
 
-### [CRUD de Alunos e Turmas](https://github.com/Giov4nnaxx/
+## 📫 Contato
+- LinkedIn: [https://www.linkedin.com/in/giovanna-santana-93a6a1320](#)  
+- Email: [gigisantanasilva@gmail.com](#)
