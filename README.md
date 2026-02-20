@@ -18,8 +18,6 @@
 ## 📂 Projetos
 - 📚 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto) – Sistema de biblioteca online para alunos e admins  
 - 👩‍🎓 [CRUD de Alunos e Turmas](https://github.com/Giov4nnaxx/Alunos) – Cadastro e gerenciamento de alunos e turmas em Java
-- 
-- 🛒 [Loja Backend](https://github.com/Giov4nnaxx/LojaBackend) – Gerenciamento de produtos, clientes e pedidos  
 
 ---
 
