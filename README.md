@@ -27,7 +27,7 @@ Sistema de biblioteca online com controle de usuários (alunos e administradores
 
 ### 👩‍🎓 Gestão Acadêmica
 
-🔗 https://github.com/Giov4nnaxx/Alunos
+🔗 https://github.com/Giov4nnaxx/GestaoAcademica
 
 Sistema de gerenciamento acadêmico em Java (console), com controle de alunos e turmas.
 
