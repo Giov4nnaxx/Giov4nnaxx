@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Giovanna Santana
+#  Giovanna Santana
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas | Osasco, SP
 💻 Desenvolvedora Front-end e Back-end | Proativa e organizada
