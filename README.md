@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovanna-santana-93a6a1320">
+  <a href="[https://www.linkedin.com/in/giovanna-santana-93a6a1320](https://www.linkedin.com/in/giovanna-santana-da-silva-93a6a1320/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:gigisantanasilva@gmail.com">
