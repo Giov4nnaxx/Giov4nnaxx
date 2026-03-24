@@ -9,7 +9,7 @@
 
 <p align="center">
   💼 LinkedIn: 
-  <a href="  <a href="[https://www.linkedin.com/in/giovanna-santana-93a6a1320](https://www.linkedin.com/in/giovanna-santana-da-silva-93a6a1320/)">">
+  <a href="https://www.linkedin.com/in/giovanna-santana-da-silva-93a6a1320/">
     giovanna-santana
   </a>
 </p>
