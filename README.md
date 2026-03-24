@@ -42,24 +42,6 @@ Aplicação desktop em C# com Windows Forms, com controle de vendas, estoque e a
 
 ---
 
-
-**Funcionalidades:**
-
-* Cadastro, edição e desativação de alunos e turmas
-* Listagem de alunos por turma
-* Validação de idade (14 a 130 anos)
-* Regras de integridade entre alunos e turmas
-
-**Conceitos aplicados:**
-
-* Programação Orientada a Objetos (POO)
-* Separação de responsabilidades (Service)
-* Validação de dados
-* Stream API (`anyMatch`, `forEach`)
-* Java Time API (`LocalDate`, `Period`)
-
----
-
 ## 📫 Contato
 
 * LinkedIn: [https://www.linkedin.com/in/giovanna-santana-93a6a1320](https://www.linkedin.com/in/giovanna-santana-da-silva-93a6a1320/)
