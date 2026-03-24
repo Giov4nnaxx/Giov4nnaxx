@@ -63,6 +63,7 @@ Sistema em Java (console) para gerenciamento de alunos e turmas, com validaçõe
 ### 🍔 Sistema Cantina
 
 🔗 [Acessar repositório](https://github.com/Giov4nnaxx/sistema-cantina)
+
 Aplicação desktop em C# (Windows Forms) com controle de vendas, estoque e autenticação de usuários.
 
 ---
