@@ -21,6 +21,7 @@
 ### 📚 Bibliotec
 
 🔗 https://github.com/Isabella751/Bibliotec-projeto
+
 Sistema de biblioteca online com controle de usuários (alunos e administradores), desenvolvido com foco em organização e usabilidade.
 
 ---
@@ -30,6 +31,17 @@ Sistema de biblioteca online com controle de usuários (alunos e administradores
 🔗 https://github.com/Giov4nnaxx/GestaoAcademica
 
 Sistema de gerenciamento acadêmico em Java (console), com controle de alunos e turmas.
+
+---
+
+### 🍔 Sistema Cantina
+
+🔗 https://github.com/Giov4nnaxx/sistema-cantina
+
+Aplicação desktop em C# com Windows Forms, com controle de vendas, estoque e autenticação de usuários, aplicando regras de negócio reais.
+
+---
+
 
 **Funcionalidades:**
 
