@@ -8,12 +8,17 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovanna-santana-93a6a1320">
-    💼 LinkedIn
+  💼 LinkedIn: 
+  <a href="  <a href="[https://www.linkedin.com/in/giovanna-santana-93a6a1320](https://www.linkedin.com/in/giovanna-santana-da-silva-93a6a1320/)">">
+    giovanna-santana
   </a>
 </p>
+
 <p align="center">
-  📧 Email: <a href="mailto:gigisantanasilva@gmail.com">gigisantanasilva@gmail.com</a>
+  📧 Email: 
+  <a href="mailto:gigisantanasilva@gmail.com">
+    gigisantanasilva@gmail.com
+  </a>
 </p>
 
 ---
