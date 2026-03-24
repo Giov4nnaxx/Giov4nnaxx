@@ -1,8 +1,8 @@
-# Giovanna Santana
+# 👩‍💻 Giovanna Santana
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas • 💻 Desenvolvedora Front-end & Back-end  
-✨ Focada em criar soluções eficientes, organizadas e com boas práticas
+✨ Focada em desenvolver soluções eficientes, organizadas e com boas práticas
 </p>
 
 ---
@@ -29,15 +29,15 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
 </p>
 
 <p align="center">
 📌 Desenvolvimento de Software • CRUDs • APIs REST • Banco de Dados  
-📌 Excel / Google Planilhas • Trabalho em equipe • Comunicação
+📌 Excel / Power BI • Trabalho em equipe • Comunicação • Proatividade
 </p>
 
 ---
@@ -47,6 +47,7 @@
 ### 📚 Bibliotec
 
 🔗 [Acessar repositório](https://github.com/Isabella751/Bibliotec-projeto)
+
 Sistema web para gerenciamento de biblioteca, com controle de usuários e reserva de livros.
 
 ---
@@ -54,6 +55,7 @@ Sistema web para gerenciamento de biblioteca, com controle de usuários e reserv
 ### 👩‍🎓 Gestão Acadêmica
 
 🔗 [Acessar repositório](https://github.com/Giov4nnaxx/GestaoAcademica)
+
 Sistema em Java (console) para gerenciamento de alunos e turmas, com validações e regras de negócio.
 
 ---
